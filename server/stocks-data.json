@@ -1,0 +1,122 @@
+[
+  {
+    "_id": {
+      "$oid": "66056111ac90d4181112fd26"
+    },
+    "ticker": "JNJ",
+    "exchange": "NYSE",
+    "name": "Johnson & Johnson",
+    "price": 145.23,
+    "currency": "USD",
+    "ipo": "Healthcare",
+    "country": "USA",
+    "logo": "https://banner2.cleanpng.com/20180528/wke/kisspng-johnson-johnson-whq-logo-company-business-5b0c636d016b94.1441886415275385410058.jpg",
+    "weburl": "https://www.jnj.com/",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "_id": {
+      "$oid": "66056111ac90d4181112fd27"
+    },
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "name": "Apple Inc.",
+    "price": 182.57,
+    "currency": "USD",
+    "ipo": "Technology",
+    "country": "USA",
+    "logo": "https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo.png",
+    "weburl": "https://www.apple.com/",
+    "industry": "Consumer Electronics"
+  },
+  {
+    "_id": {
+      "$oid": "66056111ac90d4181112fd28"
+    },
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "name": "Tesla, Inc.",
+    "price": 789.21,
+    "currency": "USD",
+    "ipo": "Automotive",
+    "country": "USA",
+    "logo": "https://i.pinimg.com/736x/0c/1e/6d/0c1e6d143b3be2f167d400cd3c3a7515.jpg",
+    "weburl": "https://www.tesla.com/",
+    "industry": "Electric Vehicles"
+  },
+  {
+    "_id": {
+      "$oid": "66056111ac90d4181112fd29"
+    },
+    "ticker": "AMZN",
+    "exchange": "NASDAQ",
+    "name": "Amazon.com, Inc.",
+    "price": 3456.78,
+    "currency": "USD",
+    "ipo": "Retail",
+    "country": "USA",
+    "logo": "https://banner2.cleanpng.com/20180825/xoa/kisspng-amazon-com-logo-brand-amazon-prime-video-product-amazon-offers-boat-bassheads-225-in-ear-super-ex-5b816a43d29798.1654053915352080038626.jpg",
+    "weburl": "https://www.amazon.com/",
+    "industry": "E-commerce"
+  },
+  {
+    "_id": {
+      "$oid": "66056111ac90d4181112fd30"
+    },
+    "ticker": "GOOG",
+    "exchange": "NASDAQ",
+    "name": "Alphabet Inc. (Class C)",
+    "price": 2784.12,
+    "currency": "USD",
+    "ipo": "Technology",
+    "country": "USA",
+    "logo": "https://w7.pngwing.com/pngs/607/104/png-transparent-googleplex-google-logo-google-search-oliver-atom-text-logo-business.png",
+    "weburl": "https://abc.xyz/",
+    "industry": "Internet"
+  },
+  {
+    "_id": {
+      "$oid": "66056111ac90d4181112fd32"
+    },
+    "ticker": "FB",
+    "exchange": "NASDAQ",
+    "name": "Meta Platforms, Inc.",
+    "price": 198.76,
+    "currency": "USD",
+    "ipo": "Technology",
+    "country": "USA",
+    "logo": "https://e7.pngegg.com/pngimages/991/568/png-clipart-facebook-logo-computer-icons-facebook-logo-facebook-thumbnail.png",
+    "weburl": "https://www.facebook.com/",
+    "industry": "Social Media"
+  },
+  {
+    "_id": {
+      "$oid": "66056111ac90d4181112fd34"
+    },
+    "ticker": "JPM",
+    "exchange": "NYSE",
+    "name": "JPMorgan Chase & Co.",
+    "price": 163.81,
+    "currency": "USD",
+    "ipo": "Financial Services",
+    "country": "USA",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCrHML2-CFDvo4TUkhFovEAlHXToGjx8osRaFgLnYb6g&s",
+    "weburl": "https://www.jpmorganchase.com/",
+    "industry": "Banking"
+  },
+  {
+    "_id": {
+      "$oid": "66056111ac90d4181112fd35"
+    },
+    "ticker": "BAC",
+    "exchange": "NYSE",
+    "name": "Bank of America Corporation",
+    "price": 42.01,
+    "currency": "USD",
+    "ipo": "Financial Services",
+    "country": "USA",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrMPX9f0Eiv9gn2lfpog89_FYCp0q2mGBGzQPVgElyZg&s",
+    "weburl": "https://www.bankofamerica.com/",
+    "industry": "Banking"
+  }
+]
