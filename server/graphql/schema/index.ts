@@ -5,4 +5,7 @@ import { TransactionTypeDef } from './Transaction';
 import { OwnedStockTypeDef } from './OwnedStock';
 import { resolvers } from '../resolvers';
 
-export default makeExecutableSchema({ typeDefs: [StockTypeDef, UserTypeDef, TransactionTypeDef, OwnedStockTypeDef], resolvers });
+export default makeExecutableSchema({
+  typeDefs: [StockTypeDef, UserTypeDef, TransactionTypeDef, OwnedStockTypeDef],
+  resolvers,
+});
